@@ -1,7 +1,7 @@
 word-splitter
 =============
 
-run it:
+run it: (you should have node installed)
 
     node t.js
     
